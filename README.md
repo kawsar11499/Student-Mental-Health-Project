@@ -1,8 +1,7 @@
-# Project Title
-Student Mental Health & Dropout Risk Analysis
+# Student Mental Health
 
 ## Description
-This project investigates the relationship between student stress, sleep, academic pressure, and dropout risk, with the goal of identifying actionable insights for universities and EdTech companies.
+This project investigates the relationship between student stress, sleep, and academic pressure, with the goal of identifying actionable insights for university welfare departments.
 
 ## Dataset
 - Source: [Insert dataset source link]
